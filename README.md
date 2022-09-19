@@ -1,4 +1,4 @@
-## Olá, eu sou o Fabrício Almeida,!!
+## Olá, eu sou o Fabrício Almeida, apaixonado por desenvolvimento de software e machine learning!!
 
 <div style="display: inline_block" align="center" >
   <a href="https://github.com/falmeidadev">
