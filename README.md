@@ -1,6 +1,6 @@
 ## Olá, eu sou o Fabrício Almeida, apaixonado por desenvolvimento de software e machine learning!!
 
-<div align="center">
+<div style="display: inline_block" align="center" >
   <a href="https://github.com/falmeidadev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=falmeidadev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=falmeidadev&layout=compact&langs_count=7&theme=radical"/>
